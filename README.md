@@ -3,7 +3,7 @@ UCB Challenge: Perform an ETL on a given datataset using Pyspark, an AWS RDS ins
 
 
 # Overview of Analysis
-In this module we were given the task to select a dataset from list provided to use PySpark to perform the ETL process to extract the datasets, transform the data, connect to AWS RDS Instance, and load the transformed data into pgAdmin. Afterward, we had to determine if there was any bias toward favorable reviews from Vine members in the dataset selected using either PySpark, Pandas or SQL for analysis. For my analysis, chose the US furniture dataset.
+In this module we were given the task to select a dataset from list provided to use PySpark to perform the ETL process to extract the datasets, transform the data, connect to AWS RDS Instance, and load the transformed data into pgAdmin. Afterward, we had to determine if there was any bias toward favorable reviews from Vine members in the dataset selected using either PySpark, Pandas or SQL for analysis. For my analysis, I chose to work on the US furniture dataset.
 
 # Results:
 
