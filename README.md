@@ -29,7 +29,7 @@ How many Vine reviews were five stars? How many non-Vine reviews were five stars
 ![vine_percentage_5star_reviews](Resources/vine_percentage_5star_reviews.png)
 
 
-## Summary
+# Summary
 
 The percentage of reviews that were 5 stars from both Amazon Vine members and non Amazon Vine members shows bias, specifically those made by Vine members, for the US Furniture datasets. 
 
@@ -40,7 +40,11 @@ I think it would be interesting to do a similar side by side comparison of the A
 
 
 ## DataFrames that were loaded into pgAdmin - Successful Connections
+
 ![table_customers](Resources/table_customers.png)
+
 ![table_products](Resources/table_products.png)
+
 ![table_review_id](Resources/table_review_id.png)
+
 ![table_vine](Resources/table_vine.png)
