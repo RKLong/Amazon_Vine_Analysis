@@ -39,7 +39,7 @@ The percentage of reviews that were 5 stars from both Amazon Vine members and no
 I think it would be interesting to do a similar side by side comparison of the Amazon "sponsored" products versus those that are not, that actually have the same specifications and functions, from both Vine and non-Vine members to further support this conclusion.
 
 
-## DataFrames that were loaded into pgAdmin - Successful Connections
+### DataFrames that were loaded into pgAdmin - Successful Connections
 
 ![table_customers](Resources/table_customers.png)
 
