@@ -1,5 +1,5 @@
 # Amazon_Vine_Analysis
-UCB Challenge: Perform an ETL on a given datataset using Pyspark, an AWS RDS instance and pgAdmin.  
+Perform an ETL on a given datataset using Pyspark, an AWS RDS instance and pgAdmin.  
 
 
 # Overview of Analysis
